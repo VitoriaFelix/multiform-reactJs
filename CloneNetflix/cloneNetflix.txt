@@ -1,0 +1,26 @@
+Clone da Netflix em React JS
+-ReactJs (biblioteca que usa o js para modelar as telas)
+-informaões retiradas da API TMDB(The Movie Database)
+
+-criar projeto em react
+npx create-react-app nomeprojeto
+
+chave api TMDB : e3ebb2a353cb3b7c0dc3776ca522b42e
+await - faz a requisicao e espera a resposta
+
+
+
+# Clonar o repositório
+$ git clone https://github.com/mcosta21/netflix-clone-reactjs
+
+# Acessa a pasta do netflix-clone-reactjs
+$ cd netflix-clone-reactjs
+
+# Instalar as dependências
+$ npm install
+
+# Iniciar a aplicação
+$ npm start
+
+# Aplicação rodando na porta 3000
+
